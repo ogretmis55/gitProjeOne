@@ -1,5 +1,6 @@
 public class secondClass {
     public static void main(String[] args) {
-        System.out.println("Git direkt takibine dahil etmedi");
+        System.out.println("Githuba git degisikligi yaptim");
+        System.out.println("ben neredeyim");
     }
 }
